@@ -1,0 +1,14 @@
+### Build results
+/*/target/
+
+### Eclipse files
+
+#Parent project 
+/.settings/
+/.project
+/.classpath
+
+#Child projects
+/*/.settings/
+/*/.project
+/*/.classpath
